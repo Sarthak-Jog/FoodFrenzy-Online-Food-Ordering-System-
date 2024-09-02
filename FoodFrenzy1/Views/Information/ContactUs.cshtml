@@ -1,0 +1,81 @@
+﻿@model FoodFrenzy1.Models.ContactModel
+@{
+    ViewData["Title"] = "Contact us";
+}
+<style>
+    body {
+        background: linear-gradient(45deg, #2c3e50, #4ca1af);
+        color: #fff;
+        margin: 0;
+        padding: 0;
+    }
+
+    .content-container {
+        background-color: rgba(255, 255, 255, 0.9);
+        border-radius: 15px;
+        padding: 2rem;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        color: #000;
+        margin-bottom: 2rem;
+    }
+
+        .content-container h4 {
+            font-weight: bold;
+            margin-top: 1.5rem;
+        }
+
+        .content-container p {
+            margin-bottom: 1rem;
+        }
+
+    .lead {
+        font-weight: 300;
+    }
+
+    footer {
+        background: linear-gradient(to right, #ff416c, #2d96e0);
+        color: #fff;
+        border-radius: 20px;
+    }
+</style>
+
+<div class="container-fluid mt-5">
+    <h1 class="text-center">@ViewData["Title"]</h1>
+    <div class="content-container">
+        <p class="lead text-center">Welcome to FoodFrenzy, your ultimate Online Food Ordering companion designed to streamline the process of discovering and ordering favourite food items.</p>
+    </div>
+    <div class="content-container">
+        <h4>Our Vision</h4>
+        <p>At FoodFrenzy, we envision becoming the premier online food ordering destination that brings culinary delights from around the world directly to our customers' doorsteps. Our mission is to blend convenience with gourmet experiences, offering an unparalleled selection of dishes that cater to diverse tastes and dietary preferences. By leveraging cutting-edge technology and a commitment to excellence, we strive to create a seamless, user-friendly platform where quality, freshness, and customer satisfaction are at the forefront. At FoodFrenzy, we aspire to redefine the way people enjoy food, making every meal a moment of joy and every order an adventure in flavor.</p>
+    </div>
+    <div class="content-container">
+        <h4>What We Offer</h4>
+        <p><strong>Diverse Cuisine Selection: </strong>Enjoy a wide array of dishes from various culinary traditions, all in one place.</p>
+        <p><strong>Fresh and Quality Ingredients:</strong>We prioritize freshness and quality to ensure every meal is delicious and nutritious.</p>
+        <p><strong>Easy Online Ordering:</strong>Experience a user-friendly platform for effortless browsing and ordering </p>
+        <p><strong>Exclusive Offers and Discounts:</strong>Benefit from special deals and promotions to make your dining experience more enjoyable and affordable</p>
+        <p><strong>Secure and Reliable:</strong> Your safety and security are our top priorities. FoodFrenzy uses the latest technology to ensure that your personal information is protected and that your bookings are secure.</p>
+    </div>
+</div>
+
+<!-- Footer -->
+<footer class="text-white py-4 mb-3">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6">
+                <h5>About FoodFrenzy</h5>
+                <p>FoodFrenzy is your ultimate online destination for diverse, fresh, and delicious culinary experiences delivered right to your doorstep.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Scripts -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script>
+    $('.carousel').carousel({
+        interval: 2000
+    })
+</script>

@@ -1,0 +1,156 @@
+﻿@{
+    ViewData["Title"] = "About Us";
+}
+<style>
+    body {
+        background: linear-gradient(45deg, #2c3e50, #4ca1af);
+        color: #fff;
+    }
+
+    .card {
+        background-color: rgba(255, 255, 255, 0.9);
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+        .card:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+    .card-img-top {
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        object-fit: cover;
+        height: 320px;
+    }
+
+    .card-body {
+        background-color: #fff;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        color: #000;
+    }
+
+    .card-title {
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+    }
+
+    .card-text {
+        margin-bottom: 0.5rem;
+    }
+
+    .lead {
+        font-weight: 300;
+    }
+
+    .content-container {
+        background-color: rgba(255, 255, 255, 0.9);
+        border-radius: 15px;
+        padding: 2rem;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        color: #000;
+        margin-bottom: 2rem;
+    }
+
+        .content-container h4 {
+            font-weight: bold;
+            margin-top: 1.5rem;
+        }
+
+        .content-container p {
+            margin-bottom: 1rem;
+        }
+
+    footer {
+        background: linear-gradient(to right, #ff416c, #2d96e0);
+        color: #fff;
+        padding: 10px;
+    }
+</style>
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+<div class="content-container">
+    <h4>Meet the Team</h4>
+    <p>Behind FoodFrenzy is a passionate team of foodies, tech experts, and customer service professionals dedicated to making your online food ordering experience unforgettable. We work tirelessly to update our database, improve our platform, and provide top-notch customer support to ensure that you have the best possible experience with FoodFrenzy.</p>
+    <h4>Our Commitment</h4>
+    <p>We are committed to continuously improving and expanding our services to meet the evolving needs of our users. At FoodFrenzy, we value your feedback and are always eager to hear your suggestions on how we can make your online food ordering experience even better.</p>
+    <p>Thank you for choosing FoodFrenzy as your favourite meal.</p>
+</div>
+<div class="content-container">
+    <h4>Our Team</h4>
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="/images/Sarthak.jpg" class="card-img-top" alt="Sarthak Jog">
+                <div class="card-body">
+                    <h5 class="card-title">Sarthak Jog</h5>
+                    <p class="card-text">I am an engineering graduate from Mumbai University, having 1 year experience in Legrand(India).I have a better understanding of Operating system, Java, Data structures, Database Technologies, Web programming Technologies. </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="/images/Ayesha.jpg" class="card-img-top" alt="Ayesha Sayed">
+                <div class="card-body">
+                    <h5 class="card-title">Ayesha Sayed</h5>
+                    <p class="card-text">Masters in Information Technology, My hobbies include reading books and exploring new things.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="/images/Satyam.jpg" class="card-img-top" alt="Satyam Akalekar">
+                <div class="card-body">
+                    <h5 class="card-title">Satyam Akalekar</h5>
+                    <p class="card-text">I am an engineering graduate,Passionate about technology. Hobbies are Reading & Sculpting.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="/images/Digvijay.jpg" class="card-img-top" alt="Digvijay Shete">
+                <div class="card-body">
+                    <h5 class="card-title">Digvijay Shete</h5>
+                    <p class="card-text">I am an engineering graduate,Passionate about learning evolving technology.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="/images/Nitesh.jpg" class="card-img-top" alt="Nitesh Palkar">
+                <div class="card-body">
+                    <h5 class="card-title">Nitesh Palkar</h5>
+                    <p class="card-text">
+                        I am an Electronics and Telecommunications engineering graduate,Passionate about learning evolving technology.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="" class="card-img-top" alt="Abhishek Husepwar">
+                <div class="card-body">
+                    <h5 class="card-title">Abhishek Husepwar</h5>
+                    <p class="card-text"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+<!-- Footer -->
+<footer class="text-white py-4 mb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h5>About FoodFrenzy</h5>
+                <p>FoodFrenzy is your ultimate online destination for diverse, fresh, and delicious culinary experiences delivered right to your doorstep.</p>
+            </div>
+        </div>
+    </div>
+</footer>

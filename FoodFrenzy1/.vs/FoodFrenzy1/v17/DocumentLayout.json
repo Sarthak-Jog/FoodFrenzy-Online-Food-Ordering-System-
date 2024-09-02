@@ -1,0 +1,577 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\controllers\\foodmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:controllers\\foodmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\views\\information\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:views\\information\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\views\\information\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:views\\information\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\controllers\\informationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:controllers\\informationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\handlers\\customauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:handlers\\customauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\data\\foodfrenzy1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:data\\foodfrenzy1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\views\\foodmenu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:views\\foodmenu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\views\\foodmenu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:views\\foodmenu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\foodfrenzy1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:foodfrenzy1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\views\\order\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:views\\order\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|d:\\cdac\\ms .net\\websites\\foodfrenzy1\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3046854-584B-43FF-BA98-C2B6DD6BC623}|FoodFrenzy1.csproj|solutionrelative:views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Services\\EmailSender.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Services\\EmailSender.cs",
+              "RelativeToolTip": "Services\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:58:22.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\Information\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Information\\ContactUs.cshtml",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\Information\\ContactUs.cshtml",
+              "RelativeToolTip": "Views\\Information\\ContactUs.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T20:10:59.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:39:37.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\Information\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Information\\AboutUs.cshtml",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\Information\\AboutUs.cshtml",
+              "RelativeToolTip": "Views\\Information\\AboutUs.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAYwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T11:18:32.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\FoodMenu\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\FoodMenu\\Details.cshtml",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\FoodMenu\\Details.cshtml",
+              "RelativeToolTip": "Views\\FoodMenu\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T18:50:11.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:06:44.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InformationController.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\InformationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InformationController.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\InformationController.cs",
+              "RelativeToolTip": "Controllers\\InformationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:17:12.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ContactModel.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Models\\ContactModel.cs",
+              "RelativeDocumentMoniker": "Models\\ContactModel.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Models\\ContactModel.cs",
+              "RelativeToolTip": "Models\\ContactModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:58:29.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:40:48.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomAuthenticationHandler.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Handlers\\CustomAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\CustomAuthenticationHandler.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Handlers\\CustomAuthenticationHandler.cs",
+              "RelativeToolTip": "Handlers\\CustomAuthenticationHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:58:46.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FoodFrenzy1.csproj",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\FoodFrenzy1.csproj",
+              "RelativeDocumentMoniker": "FoodFrenzy1.csproj",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\FoodFrenzy1.csproj",
+              "RelativeToolTip": "FoodFrenzy1.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T05:57:43.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\User\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\SignUp.cshtml",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\User\\SignUp.cshtml",
+              "RelativeToolTip": "Views\\User\\SignUp.cshtml",
+              "ViewState": "AQIAACEAAAAACAAAAAAhwBMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T05:00:33.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAgAAABANDMzMzMrwCQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T05:00:07.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T04:59:42.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAABIAAACgzMzMzMwiwBgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:59:17.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:57:28.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:36:50.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:36:48.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:36:46.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:36:32.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAA8AAAAANDMzMzMbwBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:16:47.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:15:43.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:14:25.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FoodFrenzy1Context.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Data\\FoodFrenzy1Context.cs",
+              "RelativeDocumentMoniker": "Data\\FoodFrenzy1Context.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Data\\FoodFrenzy1Context.cs",
+              "RelativeToolTip": "Data\\FoodFrenzy1Context.cs",
+              "ViewState": "AQIAABMAAADAnZmZmZkdwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:39:36.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T15:34:36.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\FoodMenu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\FoodMenu\\Index.cshtml",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\FoodMenu\\Index.cshtml",
+              "RelativeToolTip": "Views\\FoodMenu\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T15:33:02.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoodMenuController.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\FoodMenuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoodMenuController.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Controllers\\FoodMenuController.cs",
+              "RelativeToolTip": "Controllers\\FoodMenuController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:32:52.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CheckoutComplete.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\Order\\CheckoutComplete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\CheckoutComplete.cshtml",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\Order\\CheckoutComplete.cshtml",
+              "RelativeToolTip": "Views\\Order\\CheckoutComplete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T11:23:37.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\Order\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Checkout.cshtml",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Views\\Order\\Checkout.cshtml",
+              "RelativeToolTip": "Views\\Order\\Checkout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T11:22:02.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:10:58.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:07:53.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAF8AAACA1szMzMwqwGYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:24:51.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:38:03.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\CDAC\\MS .Net\\Websites\\FoodFrenzy1\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:25:37.918Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
